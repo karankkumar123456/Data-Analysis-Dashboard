@@ -45,3 +45,27 @@ It helps business stakeholders analyze revenue, profit, customer behavior, produ
 
 ![Screenshot (495)](https://github.com/karankkumar123456/Data-Analysis-Dashboard/blob/main/Scrrenshot%20For%20E%20Commerce%20Report.jpg)
 
+## poject Insight
+
+- Total Sales: 438K | Total Profit: 37K | Total Quantity: 5615
+
+- Category Performance:
+
+- Electronics contributes the highest sales (166K).
+
+- Clothing and Furniture follow closely.
+
+- Sub-Category: Printers, Phones, and Bookcases generate the most sales.
+
+- Top Customers: Harivansh and Madhav are the highest contributors.
+
+- Payment Modes: Credit Card is the most preferred (35%), followed by Debit Card and UPI.
+
+- Regional Performance: Maharashtra leads with the highest sales (102K), followed by Uttar Pradesh and Madhya Pradesh.
+
+- City Insights: Indore and Mumbai are the top-performing cities.
+
+## conclusion
+
+The dashboard reveals key trends in sales, profit, customers, and regions, helping businesses make data-driven decisions and improve sales strategies.
+
