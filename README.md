@@ -41,3 +41,7 @@ It helps business stakeholders analyze revenue, profit, customer behavior, produ
 - Dashboard Design – Built KPIs and visuals (Category, Sub-Category, Customer, Payment, State, City).
 - Insights – Identified top products, customers, regions, and payment trends.
 
+## Dashboard
+
+![Screenshot (495)](https://github.com/karankkumar123456/Data-Analysis-Dashboard/blob/main/Scrrenshot%20For%20E%20Commerce%20Report.jpg)
+
