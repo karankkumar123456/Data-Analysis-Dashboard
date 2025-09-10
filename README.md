@@ -1,2 +1,6 @@
-# Data-Analysis-Dashboard
-📊 Interactive E-Commerce Sales Dashboard built in Power BI to analyze key business metrics such as revenue, profit, top-selling products, customer behavior, and regional performance. This project demonstrates data cleaning, modeling, DAX calculations, and visualization best practices for business insights.
+#E-Commerce Sales Report Dashboard (Power BI)
+##The objective of this project is to design an interactive Power BI dashboard that provides insights into e-commerce sales performance.
+It helps business stakeholders analyze revenue, profit, customer behavior, product performance, and regional sales trends to make data-driven decisions.
+
+## DataSet Used
+-<a href="
