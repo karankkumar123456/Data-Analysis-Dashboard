@@ -1,6 +1,7 @@
-#E-Commerce Sales Report Dashboard (Power BI)
+# E-Commerce Sales Report Dashboard (Power BI)
 
-##    The objective of this project is to design an interactive Power BI dashboard that provides insights into e-commerce sales performance.
+## Objective
+The objective of this project is to design an interactive Power BI dashboard that provides insights into e-commerce sales performance.
 It helps business stakeholders analyze revenue, profit, customer behavior, product performance, and regional sales trends to make data-driven decisions.
 
 ## DataSet Used
@@ -32,7 +33,7 @@ It helps business stakeholders analyze revenue, profit, customer behavior, produ
 
 -<a href="https://github.com/karankkumar123456/Data-Analysis-Dashboard/blob/main/E%20Commerce%20Sales%20Report%20Analysis.pbix"> view Dashboard</a>
 
-##process
+## process
 
 1.Data Collection – Gathered Orders & E-commerce Details datasets.
 2.Data Cleaning – Removed duplicates, handled nulls, formatted data.
@@ -40,7 +41,8 @@ It helps business stakeholders analyze revenue, profit, customer behavior, produ
 4.Dashboard Design – Built KPIs and visuals (Category, Sub-Category, Customer, Payment, State, City).
 5.Insights – Identified top products, customers, regions, and payment trends.
 
-#ScreenShot -<a href="[https://github.com/karankkumar123456/Data-Analysis-Dashboard/blob/main/Orders.csv](https://github.com/karankkumar123456/Data-Analysis-Dashboard/blob/main/Scrrenshot%20For%20E%20Commerce%20Report.jpg)"> View Dashboarxd</a>
+# ScreenShot 
+-<a href="[https://github.com/karankkumar123456/Data-Analysis-Dashboard/blob/main/Orders.csv](https://github.com/karankkumar123456/Data-Analysis-Dashboard/blob/main/Scrrenshot%20For%20E%20Commerce%20Report.jpg)"> View Dashboarxd</a>
 
 
 
