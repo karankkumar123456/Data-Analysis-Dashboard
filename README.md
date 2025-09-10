@@ -28,6 +28,10 @@ It helps business stakeholders analyze revenue, profit, customer behavior, produ
 
 10.What is the overall trend of sales vs profit across categories and regions?
 
+## E commerce Dashboard Intearction
+
+-<a href="https://github.com/karankkumar123456/Data-Analysis-Dashboard/blob/main/E%20Commerce%20Sales%20Report%20Analysis.pbix"> view Dashboard</a>
+
 ##process
 
 1.Data Collection – Gathered Orders & E-commerce Details datasets.
@@ -36,7 +40,7 @@ It helps business stakeholders analyze revenue, profit, customer behavior, produ
 4.Dashboard Design – Built KPIs and visuals (Category, Sub-Category, Customer, Payment, State, City).
 5.Insights – Identified top products, customers, regions, and payment trends.
 
-#view Dashboard -<a href="[https://github.com/karankkumar123456/Data-Analysis-Dashboard/blob/main/Orders.csv](https://github.com/karankkumar123456/Data-Analysis-Dashboard/blob/main/Scrrenshot%20For%20E%20Commerce%20Report.jpg)"> View Dashboarxd</a>
+#ScreenShot -<a href="[https://github.com/karankkumar123456/Data-Analysis-Dashboard/blob/main/Orders.csv](https://github.com/karankkumar123456/Data-Analysis-Dashboard/blob/main/Scrrenshot%20For%20E%20Commerce%20Report.jpg)"> View Dashboarxd</a>
 
 
 
